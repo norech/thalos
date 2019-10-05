@@ -1,0 +1,15 @@
+{
+  "name": "thalos",
+  "version": "0.1.0",
+  "description": "A small library for deno",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Norech (http://github.com/norech/)",
+  "license": "ISC",
+  "dependencies": {
+    "deno_ls_plugin": "^0.1.0",
+    "typescript": "^3.3.1"
+  },
+  "private": true
+}
